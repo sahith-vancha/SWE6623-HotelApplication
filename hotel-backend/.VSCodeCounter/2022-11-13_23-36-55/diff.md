@@ -1,0 +1,27 @@
+# Diff Summary
+
+Date : 2022-11-13 23:36:55
+
+Directory c:\\Users\\sahit\\Documents\\workspace-spring-tool-suite-4-4.16.0.RELEASE\\hotel-backend
+
+Total : 1 files,  101 codes, 0 comments, 18 blanks, all 119 lines
+
+[Summary](results.md) / [Details](details.md) / Diff Summary / [Diff Details](diff-details.md)
+
+## Languages
+| language | files | code | comment | blank | total |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| Java | 1 | 101 | 0 | 18 | 119 |
+
+## Directories
+| path | files | code | comment | blank | total |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| . | 1 | 101 | 0 | 18 | 119 |
+| src | 1 | 101 | 0 | 18 | 119 |
+| src\\test | 1 | 101 | 0 | 18 | 119 |
+| src\\test\\java | 1 | 101 | 0 | 18 | 119 |
+| src\\test\\java\\com | 1 | 101 | 0 | 18 | 119 |
+| src\\test\\java\\com\\ksu | 1 | 101 | 0 | 18 | 119 |
+| src\\test\\java\\com\\ksu\\hotel | 1 | 101 | 0 | 18 | 119 |
+
+[Summary](results.md) / [Details](details.md) / Diff Summary / [Diff Details](diff-details.md)

@@ -41,3 +41,9 @@ After this step values directly get stored into the DB, Here I have used MYSQL w
 
 The application will be up and running
 
+Below is the architecture diagram
+
+![image](https://user-images.githubusercontent.com/71249872/205821977-0ea14670-8fce-449b-899e-522f1c93d158.png)
+
+
+
